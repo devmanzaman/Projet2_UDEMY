@@ -1,0 +1,17 @@
+.container {
+  text-align: center; /* centre tout le contenu à l'intérieur */
+  background-color: black; /* ton fond noir */
+  padding: 20px;
+}
+
+.container img {
+  border: 5px solid white; /* bordure seulement autour de l’image */
+  display: block;
+  margin: 0 auto; /* centre l’image horizontalement */
+  width: 200px;   /* tu ajustes la taille comme tu veux */
+  height: auto;
+}
+
+.container h1 {
+  color: white;
+}
